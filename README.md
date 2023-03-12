@@ -8,8 +8,11 @@ The BlackFriday dataset contains information about sales transactions that occur
 To use this project, you will need to have Python installed on your machine. You will also need to install the following libraries:
 
 pandas
+
 numpy
+
 matplotlib
+
 sklearn
 
 # Credits
